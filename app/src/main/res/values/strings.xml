@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Mortgage Calculator</string>
+    <string name="page_title">Mortgage Calculator</string>
+    <string name="enter_mortgage_amount">Enter mortgage amount</string>
+    <string name="principle_label">Mortgage Principle</string>
+    <string name="principle_helper_text">Please enter a mortgage amount</string>
+    <string name="interest_helper_text">Enter interest rate</string>
+    <string name="amortization_helper_text">Pick the total length of your mortgage</string>
+    <string name="amort_label">Amortization Length</string>
+    <string name="interest_label">Interest Rate</string>
+    <string name="calculate_mortgage">Calculate Mortgage</string>
+    <string name="result_title">Result</string>
+    <string name="textview">TextView</string>
+    <string name="extended_fab_label">Share</string>
+    <string-array name="amortizationYears">
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+    </string-array>
+</resources>
